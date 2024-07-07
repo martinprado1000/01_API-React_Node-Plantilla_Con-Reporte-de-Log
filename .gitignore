@@ -1,0 +1,4 @@
+BackServer_Node-Express/node_modules
+FrontServer_React-Vite/node_modules
+.env*
+src/.env*
